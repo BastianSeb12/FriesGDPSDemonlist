@@ -6,13 +6,13 @@
     "author": "ArvoGMD",
     "creators": ["ArvoGMD"],
     "verifier": "ArvoGMD",
-    "verification": "google.com",
-    "showcase": "google.com",
+    "verification": "https://youtube.com/404",
+    "showcase": "https://youtube.com/404",
     "percentToQualify": 6,
     "records": [
       {
           "user": "Blaz",
-          "link": "https://youtu.be/9Wfv-c5dQS8",
+          "link": "https://youtube.com/404",
           "percent": 23
       },
       {
