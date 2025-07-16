@@ -1,0 +1,25 @@
+{
+    "id": 125,
+    "name": "Unknow Palace",
+    "description": "top 2 ig",
+    "gdleveldescription": "Nerf Update",
+    "author": "ArvoGMD",
+    "creators": ["ArvoGMD"],
+    "verifier": "ArvoGMD",
+    "verification": "google.com",
+    "showcase": "google.com",
+    "percentToQualify": 6,
+    "records": [
+      {
+          "user": "Blaz",
+          "link": "https://youtu.be/9Wfv-c5dQS8",
+          "percent": 23
+      },
+      {
+          "user": "Posax",
+          "link": "https://www.youtube.com/404",
+          "percent": 6
+      },
+    ]
+}
+
